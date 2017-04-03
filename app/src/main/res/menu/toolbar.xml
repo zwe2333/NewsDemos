@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sport"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="体育"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/science"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="科技"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/education"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="教育"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/entertainment"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="娱乐"
+        app:showAsAction="never"/>
+</menu>
